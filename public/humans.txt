@@ -1,0 +1,25 @@
+/* TEAM */
+
+Founder
+
+CopyBrain
+
+Website
+
+https://copybrainapp.space
+
+Made with
+
+React
+
+TypeScript
+
+Next.js
+
+TailwindCSS
+
+Rust
+
+Tauri
+
+SQLite

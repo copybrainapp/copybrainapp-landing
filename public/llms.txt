@@ -1,0 +1,39 @@
+# CopyBrain
+
+Website
+
+https://copybrainapp.space
+
+Tagline
+
+Your second brain for everything you copy.
+
+Description
+
+CopyBrain automatically remembers everything you copy and organizes it into a searchable timeline.
+
+Platforms
+
+Windows
+macOS
+Linux
+
+Core Features
+
+Unlimited Clipboard History
+
+Timeline
+
+Calendar
+
+Search
+
+Collections
+
+Favorites
+
+Offline First
+
+Encrypted Database
+
+Cross Platform
